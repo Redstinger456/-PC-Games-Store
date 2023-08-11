@@ -1,0 +1,129 @@
+<html>
+    <head>
+        <title>Мазин ПК Игры</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Каталог Игор</h1>
+            <nav>
+            </nav>
+        </header>
+        <main>
+            <section class="red">
+            </section>
+            <section class="er">
+             <h2></h2>
+             <article>
+          <img src="https://minecraft-market.ru/image/cache/adaptive/catalog/minecraft_block_stat-500x500.jpg"width=150/><img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+           <p>minecraft</p>
+           <a class="awsd">Купить </a>
+ <p>Ціна  17,95 евро</p>
+             </article>
+             <article>
+<img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_UntitledGooseGame.jpg"width=250/><img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+ <p>Untitled Goose Game</p>
+ <a class="awsd">Купить </a>
+<p>Ціна 9,50 евро</p>
+             </article>
+             <article>
+<img src="https://man-made.ru/upload/resize_cache/webp/upload/iblock/57a/ark-b.webp"width=200/><img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+ <p>ARK: Survival Evolved</p>
+ <a class="awsd">Купить </a>
+<p>Ціна 7,99 евро</p>
+             </article>
+             <article>
+<img src="https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg"width=250/><img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+ <p>Bloons TD 6</p>
+ <a class="awsd">Купить </a>
+<p> Ціна  6, 95 евро</p>
+             </article>
+             <article>
+<img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_Cuphead.jpg"width=350/>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Cuphead</p>
+<a class="awsd">Купить </a>
+<p> Ціна  9, 34 евро</p>
+             </article>
+             <article>
+<img src="https://cdn.akamai.steamstatic.com/steam/apps/2231450/header.jpg?t=1674756021"width=350/>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Pizza Tower</p>
+<a class="awsd">Купить </a>
+<p>Ціна  10, 55евро</p>
+             </article>
+             <article>
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/322170/capsule_616x353.jpg?t=1624472273"width=350/>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Geometry Dash</p>
+<a class="awsd">Купить </a>
+<p> Ціна  2,11 евро</p>
+<img src="https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000021379/dab4e4046e86353dc6a34fc66e6c16c5007850414abfbd5e1f95c53553da739e"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Golf With Your Friends</p>
+<a class="awsd">Купить </a>
+<p> Ціна  4,99 евро</p>
+<img src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_Overcooked2.jpg"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Overcooked! 2</p>
+<a class="awsd">Купить </a>
+<p> Ціна  6,02 евро</p>
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/470220/header.jpg?t=1680017426"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>UNO</p>
+<a class="awsd">Купить </a>
+<p> Ціна  5,20 евро</p>
+<img src="https://i.ytimg.com/vi/5y_Go4Dv6fg/maxresdefault.jpg"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p><p>Wobbly Life</p>
+<a class="awsd">Купить </a>
+<p> Ціна  9,55 евро</p>
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/648800/header.jpg?t=1655744208"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p><p>Raft</p>
+<a class="awsd">Купить </a>
+<p> Ціна  10,99 евро</p>
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg?t=1689355883"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>ASTRONEER<p></p>
+<a class="awsd">Купить </a>
+<p> Ціна  8,00 евро</p>
+<img src="https://www.pcgameshardware.de/screenshots/1280x1024/2021/10/Satisfactory-Update-5-Key-art-logo-Landscape-pcgh.jpg"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Satisfactory<p></p>
+<a class="awsd">Купить </a>
+<p> Ціна  13,10 евро</p>
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg?t=1666290860"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Terraria<p></p>
+<a class="awsd">Купить </a>
+<p> Ціна  5,55 евро</p>
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/108600/header.jpg?t=1679306018"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Project Zomboida<p></p>
+<a class="awsd">Купить </a>
+<p> Ціна  12,00 евро</p>
+<img src="https://scumworld.de/media/2876-03149dd26aa6260f7fbdaa4957faf05ce5bd38d5-png/"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>SCUM<p></p>
+<a class="awsd">Купить </a>
+<p> Ціна  15,02 евро</p>
+<img src="https://cdn.cloudflare.steamstatic.com/steam/apps/892970/capsule_616x353.jpg?t=1676365340"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>Valheim<p></p>
+<a class="awsd">Купить </a>
+<p> Ціна  10,45 евро</p>
+<img src="https://www.games-manuals.com/wp-content/uploads/2022/10/DAVE-THE-DIVER.jpg"width=300>
+<img src="https://cdn-icons-png.flaticon.com/512/1374/1374142.png"width=60/>
+<p>DAVE THE DIVER<p></p>
+<p> Ціна  15,45 евро</p>
+<a class="awsd">Купить </a>
+
+              </section>
+              </section>
+        </main>
+        <footer>
+        <p>наши контакты</p>
+        </footer>
+    </body>
+</html> 
