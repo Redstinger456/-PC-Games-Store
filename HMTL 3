@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title>Мазин ПК Игры</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <h1>Поддержку</h1> <img src="https://cdn-icons-png.flaticon.com/512/1570/1570917.png"width=60/> 
+            <nav>
+                <a href="">Каталог Игор</a>
+                <a href="">Отзывы</a>
+                <a href="">Корзина</a>
+            </nav>
+        </header>
+        <main>
+            <section class="edj">
+                <p>дати деньги Ціна 3,00 евро</p>
+                 <a class="aw">донат </a>
+                <p>дати деньги  Ціна  10,00 евро</p>
+                <a class="aw">донат </a>
+                <p>дати деньги  Ціна  20,00 евро</p>
+                <a class="aw">донат </a>
+                <p>дати деньги  Ціна  50,00 евро</p>
+                <a class="aw">донат </a>
+            </section>
+        </main>
+        <footer>
+        <p>наши контакты</p>
+        </footer>
+    </body>
+</html>        
