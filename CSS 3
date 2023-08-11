@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+h1  {
+    text-align: center;
+}
+
+nav a{
+    text-decoration: none;
+    border: 5px solid red;
+    margin: 10px ;
+    padding: 5px ;
+    border-radius:25px ;
+}
+
+.aw {
+    text-decoration: none;
+    border: 5px solid red;
+    margin: 10px ;
+    padding: 5px ;
+    border-radius:40px ;
+}
+
+h2  {
+    text-align: center;
+}
+
+footer {
+    background-image:linear-gradient(rgb(0, 255, 21),rgb(179, 217, 39)) ;
+    padding: 20px;
+}
